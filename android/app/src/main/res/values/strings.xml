@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Machine Tracker</string>
+    <string name="title_activity_main">Machine Tracker</string>
+    <string name="package_name">com.machinetracker.app</string>
+    <string name="custom_url_scheme">com.machinetracker.app</string>
+</resources>
