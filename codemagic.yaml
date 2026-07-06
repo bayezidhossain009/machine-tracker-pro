@@ -3,7 +3,7 @@ workflows:
     name: Android Debug APK
 
     environment:
-      node: 20
+      node: 22
       java: 17
 
     scripts:
